@@ -9,5 +9,5 @@ My work is scattered over the 'net; if you can't find something on this profile,
 - Autism-related social activism: [Stereotyp](https://kosma.pl/stereotyp)
 - Photography & existential despair: [Film Diaries](https://kosma.pl/diaries)
 
-PS. Need electronics designed? I'm available for hire: [P.H.U. Kosmopol](https://kosma.pl/kosmopol/).
+PS. Need electronics designed? [I'm available for hire](https://kosma.pl/kosmopol/).
 I specialize in IoT/battery-powered/wireless/communication/interface devices.
