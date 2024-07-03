@@ -5,9 +5,9 @@
 Thanks for visiting. This profile contains a multitude of different projects I've created over the years.
 My work is scattered over the 'net; if you can't find something on this profile, see also:
 
-- My Minecraft mods are on a [separate account](https://github.com/kosmolot-mods) because there's so many of them.
-- Autism-related social activism: [https://kosma.pl/stereotyp]<br>
-- Photography & existential despair: [https://kosma.pl/diaries] \[click at your own peril]<br>
+- Minecraft Mods: [Modrinth](https://modrinth.com/user/Kosmolot) | [GitHub](https://github.com/kosmolot-mods)
+- Autism-related social activism: [Stereotyp](https://kosma.pl/stereotyp)
+- Photography & existential despair: [Film Diaries](https://kosma.pl/diaries)
 
-Need electronics designed? I'm available for hire: [P.H.U. Kosmopol](https://kosma.pl/kosmopol/)
+PS. Need electronics designed? I'm available for hire: [P.H.U. Kosmopol](https://kosma.pl/kosmopol/).
 I specialize in IoT/battery-powered/wireless/communication/interface devices.
